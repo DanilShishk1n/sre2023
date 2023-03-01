@@ -46,7 +46,9 @@ Add your nicknames here:
 * Александр Малиновский
 * Екатерина Бородашкина
 * Фирсов Виктор
+* Шишканов Данил
 * Rogi Vomigarbi
 * p8antasm
 * amfexd
+
 ...
